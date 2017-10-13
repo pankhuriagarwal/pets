@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_1f6ffe25d6a091faac5ae8507f9c1c767b9f5e6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_7d7b35c327c105fd78b3340d54351814ccb94b60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e2b33e14c8675d392a135983fadbc34992358d9">
+        <dex dex="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a202369b384aacfd35a453e1020f75524c20085e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pankhuriagarwal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_53d526f064413f5798c28b7b7190d6faef80e45c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_0d1f033a56471a5b7df3cf27c89b7f8db3d4ff9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_241726b7c8a0e954c6efdd326bf7961e4df82121/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_c60bc87c989db1534a2486e6d175c47dc49e5590/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_daf743a95d2e6b803e28c77a8cb1bc515a6bfec2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_8385d598b163e811dd73f7633d2f18dc94ecabf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b10cefb07927cadd5684110b8574b573f1b17a4f">
+        <dex dex="/Users/pankhuriagarwal/Downloads/Pets-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_58baccca66a6236c1b9a1333974da202301a3da3/classes.dex" />
+    </item>
+
+</items>
